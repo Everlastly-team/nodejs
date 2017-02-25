@@ -1,0 +1,21 @@
+{
+  "name": "everlastly",
+  "version": "1.0.6",
+  "description": "Everlastly API Wrapper.",
+  "main": "everlastly.js",
+  "scripts": {},
+  "keywords": [
+    "everlastly",
+    "blockchain",
+    "notarization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Everlastly-team/nodejs"
+  },
+  "author": "Emelyanenko Kirill",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
